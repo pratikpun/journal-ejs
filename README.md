@@ -7,4 +7,4 @@ Uses routing between views, and using css from a static file.
 
 To try this application online:
 -need 'nodemon' to run the servers.
-then type <nodemon app.js> to run launch the servers, this app uses the port 3000 in localhost.
+then type `nodemon app.js` to run launch the servers, this app uses the port 3000 in localhost.
